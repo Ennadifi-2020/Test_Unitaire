@@ -1,0 +1,6 @@
+C:\Users\Youcode\Desktop\Bulltin1_Test_Unitaire\calculator\bin\Debug\calculator.dll
+C:\Users\Youcode\Desktop\Bulltin1_Test_Unitaire\calculator\bin\Debug\calculator.pdb
+C:\Users\Youcode\Desktop\Bulltin1_Test_Unitaire\calculator\obj\Debug\calculator.csprojAssemblyReference.cache
+C:\Users\Youcode\Desktop\Bulltin1_Test_Unitaire\calculator\obj\Debug\calculator.csproj.CoreCompileInputs.cache
+C:\Users\Youcode\Desktop\Bulltin1_Test_Unitaire\calculator\obj\Debug\calculator.dll
+C:\Users\Youcode\Desktop\Bulltin1_Test_Unitaire\calculator\obj\Debug\calculator.pdb

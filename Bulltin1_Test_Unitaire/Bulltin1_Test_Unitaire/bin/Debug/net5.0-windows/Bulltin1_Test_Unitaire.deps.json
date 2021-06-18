@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "Bulltin1_Test_Unitaire/1.0.0": {
+        "runtime": {
+          "Bulltin1_Test_Unitaire.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Bulltin1_Test_Unitaire/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
